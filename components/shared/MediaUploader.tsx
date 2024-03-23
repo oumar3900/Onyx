@@ -53,7 +53,7 @@ const MediaUploader = ({
 
   return (
     <CldUploadWidget
-      uploadPreset="jsm_imaginify"
+      uploadPreset="digiflex_onyx"
       options={{
         multiple: false,
         resourceType: "image",
